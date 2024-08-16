@@ -1,4 +1,4 @@
-# MNIST Digit Recognizer
+# Digit Recognizer
 
 ## Overview
 This project implements a Convolutional Neural Network (CNN) for recognizing handwritten digits using the MNIST dataset. It features a Streamlit web application for interactive model training, parameter tuning, and digit recognition.
@@ -11,12 +11,6 @@ This project implements a Convolutional Neural Network (CNN) for recognizing han
 - Custom image upload for digit recognition
 - Model export to TensorFlow Lite format
 
-## Requirements
-- Python 3.7+
-- TensorFlow 2.x
-- Streamlit
-- NumPy
-- Matplotlib
 
 ## Installation
 1. Clone this repository:
@@ -56,18 +50,5 @@ To export the trained model to TensorFlow Lite format:
    python export_model.py
    ```
 
-## Contributing
-Contributions to improve the project are welcome. Please follow these steps:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/mnist-digit-recognizer](https://github.com/yourusername/mnist-digit-recognizer)
