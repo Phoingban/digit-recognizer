@@ -15,7 +15,7 @@ This project implements a Convolutional Neural Network (CNN) for recognizing han
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mnist-digit-recognizer.git
+   git clone https://github.com/yourusername/digit-recognizer.git
    cd mnist-digit-recognizer
    ```
 
